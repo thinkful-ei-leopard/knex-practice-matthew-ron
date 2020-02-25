@@ -1,8 +1,8 @@
 CREATE TYPE grocery as ENUM (
-    "Main",
-    "Snack",
-    "Lunch",
-    "Breakfast"
+    'Main',
+    'Snack',
+    'Lunch',
+    'Breakfast'
 );
 
 CREATE TABLE shopping_list (
